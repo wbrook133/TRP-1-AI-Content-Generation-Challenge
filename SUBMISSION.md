@@ -3,7 +3,7 @@ Based on the file structure of src/ai_content/, here are the main modules:
 core: Contains the fundamental building blocks of the system.
 provider.py: Likely defines the base interface for AI providers.
 registry.py: Handles registration of providers or pipelines.
-job_tracker.py: Manages the state and tracking of generation jobs.
+job_tracker.py: Manages the state and tracking of generation jobs.s
 result.py: Defines the structure of generation results.
 pipelines: Defines the workflows for generating content.
 music.py: Pipeline for music generation.
@@ -20,4 +20,4 @@ archive.py: Archival or storage integration.
 media.py: General media handling utilities.
 cli: Command-line interface entry points.
 config: Configuration management.
-utils: General utility functions.s
+utils: General utility functions.
